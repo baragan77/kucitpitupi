@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXTVLCOPT:http-referrer= https://streamservicehd.click/
+https://webudi.openhd .lol/ddy1/premium32/tracks-v1a1/mono.m3u8
